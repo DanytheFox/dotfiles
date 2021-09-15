@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dany.renard59158@gmail.com
+	name = Dany renard
